@@ -2,3 +2,4 @@ master
 rimoto - add1
 local - add1
 local - add2 *master-localbura1
+rimoto - dev1
